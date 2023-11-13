@@ -1,11 +1,11 @@
 ﻿/*
-Class:  Form1.cs
-Author: Sujan Rokad
-Date:   October 26, 2023
+Class:                  Form1.cs
+Author:                 Sujan Rokad
+Date:                   October 26, 2023
+Authorship statement:   I, Sujan Rokad, 000882948 certify that this material is my original work. No other person's work has been used without due acknowledgement.
 
 Purpose: This class represents the main form of the Hair Salon Pricing Calculator application. It provides a graphical user interface (GUI) for users to select a hairdresser, one or more services, and calculate the total price for the salon services. Users can also reset their selections and exit the application.
 
-Authorship statement: I, Sujan Rokad, 000882948 certify that this material is my original work.
 */
 
 using System;
@@ -243,12 +243,6 @@ namespace Lab3B
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
-        }
-
-        
-
-        
-
-        
+        } 
     }
 }
